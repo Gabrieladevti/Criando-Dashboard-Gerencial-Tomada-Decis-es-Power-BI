@@ -1,7 +1,6 @@
 <div align="justify">
   
 # Compilado de projetos de Business Intelligence e Data Science utilizando Power BI
-#### Autor: Guilherme Oliveira da Rocha Cunha
 
 Estes projetos foram apresentados no curso **Microsoft Power BI Para Business Intelligence e Data Science** oferecido pelo portal de capacitação profissional Data Science Academy (DSA) ([link](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science)). Neste curso foi abordado não apenas a como utilizar o Microsoft Power BI, mas também como aplicar técnicas de Data Science para gerar modelos preditivos e extrair insights para a tomada de decisões, integrando o Power BI com Linguagem R e Python.
 
